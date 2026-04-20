@@ -1,21 +1,66 @@
-# 🛡️ Chemical Engineer | Cybersecurity Enthusiast | Python Developer
+# 👋 Hi, I'm Gianluca Esposito
 
-Chemical Engineer transitioning into the Cybersecurity world. Currently focusing on strengthening my skills in security theory and developing practical Python tools.
+🎯 Junior Cybersecurity Analyst | Python | Network Security | Ethical Hacking
 
-## 🎯 Focus
-- **Advanced Python Scripting**: Developing tools for remote execution and system interaction.
-- **Automation & Sockets**: Building reliable client-server architectures using TCP and custom data framing.
-- **Fast Learning & Adaptability**: Leveraging an engineering mindset to master complex IT systems.
+---
 
-## 🚀 Projects
-Here are some projects that represent my work and methodology:
-- **[Telegram Bot with AI](https://github.com/Espo59/Judy-IA-Telegram-Bot)**: Integrating AI models and API handling.
-- **[Cybersecurity Course Scripts](https://github.com/Espo59/Cybersecurity-Course)**: A collection of tools.
+## 🛡️ About Me
 
-## 📚 Background
-I hold a **Bachelor’s Degree in Chemical Engineering**, which allowed me to build a strong analytical mindset and robust problem-solving skills. My curiosity for the IT world led me to self-study the fundamentals of programming.
+Chemical Engineering graduate with a strong transition into Cybersecurity.
 
-To formalize my transition, I completed a **Professional Python Course (ISO 9001:2015)**, where I learned to handle APIs, MySQL, and AI integrations. Furthermore, I earned the **Google Cybersecurity Professional Certificate** and I am currently attending a specialized Cybersecurity class sponsored by ITConsulting.
+Currently focused on building practical skills in:
 
-## 🎯 What I'm aiming for
-I am building this GitHub as a professional portfolio to showcase my ability to write **clean, documented code** and to demonstrate my technical growth in the Cybersecurity field.
+* Network Security
+* Vulnerability Assessment
+* Threat Analysis
+* Security tools and automation
+
+---
+
+## 🔧 Technical Skills
+
+* Python (automation & scripting)
+* SQL (database fundamentals)
+* Linux (CLI basics)
+
+### Cybersecurity
+
+* Network scanning 
+* Traffic analysis (Wireshark)
+* Vulnerability assessment
+* Basic Ethical Hacking concepts
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Cybersecurity Labs**
+Practical exercises on network scanning, traffic analysis, and vulnerability assessment
+
+👉 https://github.com/Espo59/Cybersecurity-Course
+
+🔹 **AI Telegram Bot**
+Telegram bot integrating AI models with API handling
+
+👉 https://github.com/Espo59/Judy-IA-Telegram-Bot
+
+---
+
+## 📚 Certifications
+
+* Google Cybersecurity Professional Certificate
+* Python Programming Certification (ISO 9001:2015 EA 37)
+* Academy in Cybersecurity: Offensive Security & Ethical Hacking (in progress)
+
+---
+
+## 🚀 Career Goal
+
+Actively seeking opportunities as:
+👉 **Junior Cybersecurity Analyst / SOC Analyst**
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/gianluca-esposito-342a24254/
